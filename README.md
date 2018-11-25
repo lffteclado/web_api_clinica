@@ -1,0 +1,1 @@
+Web API para ser consumido pela Single Page Application desenvolvida com o React.
